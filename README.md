@@ -21,7 +21,7 @@ Nasze projekty:
 1. [Aleksandra Bemke](https://github.com/abemke).
 1. [Kasia Idziak](https://github.com/idzionek).
 1. [D Lachowicz](https://github.com/Alphacentauri01).
-1. [Michał Lewandowski](https://github.com/lewand16).
+1. [Michał Lewandowski](https://github.com/lewand16),[Strona o małej retencji](http://lewand16.github.io/TI2016),[Notatki z Markdown](https://github.com/lewand16/TI2016).
 1. SL Majewska
 1. [Jacek Mankiewicz](http://github.com/JacekMMC/), [Repozytorium](https://github.com/JacekMMC/zadanie-1).
 1. [Elżbieta Mariola Ostrowska-Janczak](https://github.com/eleczka).
